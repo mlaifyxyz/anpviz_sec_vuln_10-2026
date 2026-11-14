@@ -127,4 +127,4 @@ The original F19 report emphasized a shared root hash. Later analysis found runt
 
 ## Coordination and reuse
 
-For technical corrections, affected-model information, or coordination, use CERT/CC VRF #26-10-FZTVG or [security@mlaify.io](mailto:security@mlaify.io). Do not send test traffic to devices you do not own or administer. Third-party firmware and decompilation excerpts are included as research evidence; this repository does not grant a license to Anpviz's firmware or other third-party material. Original analysis text and generated evidence presentation are © 2026 Matthew Davis / M&L AI LLC.
+For technical corrections, open a GitHub issue. For affected-model information or coordination, use CERT/CC VRF #26-10-FZTVG. Do not send test traffic to devices you do not own or administer. Third-party firmware and decompilation excerpts are included as research evidence; this repository does not grant a license to Anpviz's firmware or other third-party material. Original analysis text and generated evidence presentation are © 2026 Matthew Davis / M&L AI LLC.
